@@ -1,7 +1,8 @@
 {
-  "name": "my-app",
+  "name": "ract-flower",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://fairuzmn.github.io/react-flower",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
